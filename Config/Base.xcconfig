@@ -1,0 +1,4 @@
+// Defaults (demo mode). Real values come from the optional, git-ignored Secrets.xcconfig.
+AI_API_KEY =
+AI_MODEL = gpt-4o-mini
+#include? "Secrets.xcconfig"
